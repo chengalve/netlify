@@ -1,10 +1,10 @@
 * {
   background: pink;
   color: blue;
-  font-size: 20px;
+  font-size: 100px;
   text-align: center;
 }
 
 h1 {
-  margin: auto;
+  margin: 50vh;
 }
